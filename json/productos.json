@@ -1,13 +1,58 @@
 [
     {
     "id": 1,
-    "nombre": "PC",
-    "detalle": "i5,500GB ssd",
-    "categoria": "computacion",
+    "nombre": "Vela Duotone",
+    "detalle": "9m",
+    "categoria": "kitesurf",
     "precio": 100000,
     "stock": 10
     
-    }
+    },
+    {
+      "id": 2,
+      "nombre": "Vela Chaos",
+      "detalle": "10m",
+      "categoria": "kitesurf",
+      "precio": 110000,
+      "stock": 25
+      
+    },
+    {
+      "id": 3,
+      "nombre": "Vela Cabrinha",
+      "detalle": "9m",
+      "categoria": "kitesurf",
+      "precio": 90000,
+      "stock": 5
+      
+      },
+      {
+        "id": 4,
+        "nombre": "Vela Duotone",
+        "detalle": "10m",
+        "categoria": "kitesurf",
+        "precio": 140000,
+        "stock": 10
+        
+      },
+      {
+        "id": 5,
+        "nombre": "Vela Duotone",
+        "detalle": "11m",
+        "categoria": "kitesurf",
+        "precio": 160000,
+        "stock": 13
+        
+        },
+        {
+          "id": 6,
+          "nombre": "Tabla Cabrinha",
+          "detalle": "140 cm",
+          "categoria": "kitesurf",
+          "precio": 45000,
+          "stock": 9
+          
+        }
     
     
   ]
