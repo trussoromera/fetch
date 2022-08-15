@@ -1,0 +1,14 @@
+[
+    {
+    "id": 1,
+    "nombre": "PC",
+    "detalle": "i5,500GB ssd",
+    "categoria": "computacion",
+    "precio": 100000,
+    "stock": 10
+    
+    }
+    
+    
+  ]
+  
