@@ -5,7 +5,8 @@
     "detalle": "9m",
     "categoria": "kitesurf",
     "precio": 100000,
-    "stock": 10
+    "stock": 10,
+    "img": "../multimedia/kite-1.png"
     
     },
     {
@@ -14,7 +15,8 @@
       "detalle": "10m",
       "categoria": "kitesurf",
       "precio": 110000,
-      "stock": 25
+      "stock": 25,
+      "img": "../multimedia/kite-2.png"
       
     },
     {
@@ -23,7 +25,8 @@
       "detalle": "9m",
       "categoria": "kitesurf",
       "precio": 90000,
-      "stock": 5
+      "stock": 5,
+      "img": "../multimedia/kite-3.png"
       
       },
       {
@@ -32,7 +35,8 @@
         "detalle": "10m",
         "categoria": "kitesurf",
         "precio": 140000,
-        "stock": 10
+        "stock": 10,
+        "img": "../multimedia/kite-4.png"
         
       },
       {
@@ -41,7 +45,8 @@
         "detalle": "11m",
         "categoria": "kitesurf",
         "precio": 160000,
-        "stock": 13
+        "stock": 13,
+        "img": "../multimedia/kite-5.png"
         
         },
         {
@@ -50,7 +55,8 @@
           "detalle": "140 cm",
           "categoria": "kitesurf",
           "precio": 45000,
-          "stock": 9
+          "stock": 9,
+          "img": "../multimedia/tabla-kite.png"
           
         }
     
